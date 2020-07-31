@@ -3,9 +3,8 @@
     25% { color: purple;}
     50% { color: seagreen; font-size: 1.3em;}
     75% { color: slateblue; font-size: 0.7em;}
-    100% { color: slategray; 1em;}
+    100% { color: slategray; font-size: 1em; }
     }
-}
 * {
     margin: 0;
     padding: 0;
